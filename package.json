@@ -8,7 +8,7 @@
     "morgan": "^1.9.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.0"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "node src/server.js",
@@ -32,7 +32,7 @@
   },
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^6.1.4",
+    "mocha": "^11.7.5",
     "nodemon": "^1.18.11",
     "supertest": "^4.0.2"
   }
